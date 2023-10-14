@@ -1,0 +1,10 @@
+1. How to write instructions
+	a. opcode operand, operand
+	b. data types (decimal, binary, octal, hex)
+	c. which instruction is invalid (width match)
+
+2. Introduction to emu8086
+	a. showing how to write code
+	b. showing how to run code
+	c. where value is stored
+	d. instructions (mov, add, sub, mul, div, cmp (num, char), jmp (all))
